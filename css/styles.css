@@ -5,16 +5,23 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
+	font-family: 'Caveat', cursive;
+  font-size: 500%;
 	color: #000000;
 }
 
 body {
-/*	background-image: url("background.jpg"); */
+/*	background-image: url("background.jpg");
 	background-color: #f2f2f2;
+*/
+}
+#social{
+  float: right;
+}
+#menu-elements{
+  		margin-left: 50px;
 
 }
-
 p {
 	padding: 10px;
 	margin: 0;
@@ -29,6 +36,7 @@ p {
 	padding: 10px;
 }
 
+
 section {
 	border:	1px solid black;
 	background-color: #bfbfbf;
@@ -40,6 +48,12 @@ section {
 	overflow: auto;
 }
 
+#menu-elements{
+  font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+
+}
 #news1, #news2, #news3 {
 
 	text-align: center;
@@ -58,48 +72,4 @@ section {
 #news1-div,#news2-div, #news3-div {
   margin-bottom: 10px;
   margin-top: 10px;
-}
-
-
-.navbar-brand {
-  font-size: 2em;
-  border: 0 0 10px 10px;
-  color: #FFFFFF;
-}
-
-#header-nav {
-  border: 1px grey ;
-  border-bottom-style: solid;
-  background-color: #FFFFFF;
-  color: #FFFFFF;
-}
-
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
-}
-.navbar-header button.navbar-toggle {
-  clear: both;
-  margin-top: -30px;
-}
-
-.nav-header {
-  background-color: #FFFFFF;
-}
-
-.nav-brand {
-  color: #000000;
-  font-size: 1.5em;
-}
-
-#nav-list {
-  color: white;
-}
-
-hr {
-  border-color: white;
-}
-
-.item {
-  color: white;
-  font-size: 1.2em;
 }
