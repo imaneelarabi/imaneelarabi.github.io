@@ -28,17 +28,17 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+			 <a class="navbar-brand" href="index.html">Home</a>
     	</div>
 
 
     <div class="collapse navbar-collapse ">
       <ul class="nav navbar-nav">
-				  <li><a href="books.html">The blog</a></li>
         	<li><a href="books.html">Books</a></li>
         	<li><a href="songs.html">Songs</a></li>
 	     		<li><a href="places.html">Places</a></li>
-			   	<li><a href="books.html">About </a></li>
-				  <li><a href="books.html">Contact me</a></li>
+			   	<li><a href="about.html">About </a></li>
+				  <li><a href="contact.html">Contact me</a></li>
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
 					<li>
@@ -58,51 +58,6 @@
 					</li>
 					</ul>
 
-
-
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
-<div class="container">
-  <div class="jumbotron">
-
-
-	<div class="row container container-fluid">
-	<div class="col-md-12 col-sm-12 col-xs-12" id="news1-div">
-		<section>
-		<div id="news1">
-			News1
-		</div>
-		<p>
-      blablablbalbalblablabla
-		</p>
-		</section>
-	</div>
-	<div class="col-md-12 col-sm-12 col-xs-12" id="news2-div">
-		<section>
-		<div id="news2">
-			News2
-		</div>
-		<p>
-      hahahahahahahahaha
-		</p>
-		</section>
-	</div>
-	<div class="col-md-12 col-sm-12 col-xs-12" id="news3-div">
-		<section>
-		<div id="news3">
-			News3
-		</div>
-		<p>
-       blablablabla
-		</p>
-		</section>
-	</div>
-	</div>
-</div>
-</div>
-	<script src="js/jquery-2.1.4.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-  	<script src="js/script.js"></script>
-</body>
-</html>
