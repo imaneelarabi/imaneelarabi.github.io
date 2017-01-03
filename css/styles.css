@@ -15,13 +15,10 @@ body {
 	background-color: #f2f2f2;
 */
 }
-#social{
-  float: right;
-}
-#menu-elements{
-  		margin-left: 50px;
 
-}
+
+
+
 p {
 	padding: 10px;
 	margin: 0;
@@ -52,6 +49,7 @@ section {
   font-family: Georgia,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
+		margin-left: 50px;
 
 }
 #news1, #news2, #news3 {
