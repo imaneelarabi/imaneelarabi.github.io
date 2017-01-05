@@ -35,7 +35,11 @@ p {
 	padding: 10px;
 }
 
+#songstitle{
+font-family: 'Montserrat'; color:#ff3352;
+text-align: center;
 
+}
 section {
 	border:	5px solid #ffe6e6;
 	background-color: #bfbfbf;
@@ -93,7 +97,7 @@ section {
 .intrinsic-container iframe {
 	position: absolute;
 	top: 0;
-	left: 0;
+	left: 10%;
 	width: 70%;
 	height: 70%;
 }
