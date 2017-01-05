@@ -9,6 +9,11 @@ h1 {
   font-size: 500%;
 	color: #000000;
 }
+#abtme{
+background-color: #ffe6e6;
+/*background-color:none !important;*/
+}
+
 
 body {
 /*	background-image: url("background.jpg");
@@ -32,7 +37,7 @@ p {
 
 
 section {
-	border:	1px solid black;
+	border:	5px solid #ffe6e6;
 	background-color: #bfbfbf;
 	width: 100%;
 	height: auto;
@@ -49,11 +54,10 @@ section {
 	margin-left: 50px;
 
 }
-#news1, #news2, #news3 {
+#title{
 
-	text-align: center;
-	width: 10%;
-	margin-right: 70%;
+	width: auto;
+	margin-right: none;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
@@ -64,7 +68,18 @@ section {
 }
 
 
-#news1-div,#news2-div, #news3-div {
+#image{
+	width:50%;
+	height:50%;
+}
+
+
+#element {
   margin-bottom: 10px;
   margin-top: 10px;
 }
+
+#map-canvas{
+  width:500px;
+	height:300px;
+  padding-bottom:5px}
