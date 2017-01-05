@@ -2,7 +2,7 @@ $(function () {
     $("#btnShow").click(function () {
         $("#dialog").dialog({
             modal: true,
-            title: "Google Maps",
+            title: "Google Map",
             width: 600,
             hright: 450,
             buttons: {
